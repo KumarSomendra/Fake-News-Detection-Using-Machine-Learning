@@ -4,7 +4,7 @@ A machine learning project for detecting fake news using NLP and classification 
 This project is about detecting fake news using Machine Learning and Natural Language Processing (NLP). With the rise of misinformation online, this system aims to classify news articles as either Fake or True.
 
 The dataset used for training comes from two CSV files:
-Fake.csv → contains fake news articles
+Fake.csv → contains fake news articles,
 True.csv → contains true news articles
 
 You can download both files from this Google Drive link: https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_
